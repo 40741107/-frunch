@@ -1,0 +1,26 @@
+.row{
+	max-width:100%;
+    margin:0;
+	padding: 0;
+}
+
+
+.header{
+	width: 100%;
+}
+.heading-section img#test{
+	width: 100%;
+
+	margin: 0 auto;
+	padding: 0;
+}
+.ftco-menu .nav-pills .nav-link{
+	margin-bottom:10px;
+	width:190px;
+}
+.row p{
+	font-size:20px;
+	max-width:100%;
+    margin:0;
+	padding: 0;
+}
